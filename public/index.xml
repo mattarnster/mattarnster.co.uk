@@ -18,7 +18,7 @@
       
       <guid>https://mattarnster.co.uk/portfolio/</guid>
       <description>releasetrackr releasetrackr is a way to subscribe to release notifications on GitHub repos. The notifications go directly to your email. It&amp;rsquo;s built using Go and MongoDB.
-reactStartPage reactStartPage is my own personal start-page and is built using React &amp;amp; Materialize CSS
+reactStartPage3 reactStartPage is my own personal start-page and is built using React &amp;amp; Materialize CSS
 scsscompiler scsscompiler is a plugin for Sublime Text which will compile the currently selected SCSS to CSS. It currently has over 29K installs.
 mgmt mgmt was written during ReactRiot 2017.</description>
     </item>
