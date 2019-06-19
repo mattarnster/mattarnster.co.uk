@@ -19,3 +19,5 @@ scsscompiler is a plugin for Sublime Text which will compile the currently selec
 ## [mgmt](https://github.com/mattarnster/mgmt)
 
 mgmt was written during ReactRiot 2017. Myself and 3 other people worked as a team to code this app in 48 hours. It's a time tracking app for freelancers with a beautiful design.
+
+You can see the demo of it [here](https://mgmt.moonunit.space).
