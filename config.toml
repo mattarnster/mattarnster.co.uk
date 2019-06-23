@@ -1,6 +1,6 @@
 baseURL = "https://mattarnster.co.uk/"
 languageCode = "en-us"
-title = "mattarnster blog"
+title = "Matt Arnold"
 theme = "hyde-hyde"
 googleanalytics = "UA-18228344-1"
 
