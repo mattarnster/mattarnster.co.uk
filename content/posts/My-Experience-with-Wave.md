@@ -1,6 +1,6 @@
 ---
 title: "My Experience with Wave"
-date: 2019-06-18T11:52:19-04:00
+date: 2019-06-18
 summary: "Here's my experience with Wave accounting software for freelancers"
 draft: true
 ---
