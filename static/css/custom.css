@@ -1,0 +1,13 @@
+.animated {
+    transition: none !important;
+}
+
+.fadeInDown {
+    animation: none;
+    -webkit-animation: none;
+    -moz-animation: none;
+}
+
+.list-with-title .listing .listing-post a {
+    color: white;
+}

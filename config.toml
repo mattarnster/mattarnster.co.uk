@@ -1,19 +1,33 @@
 baseURL = "https://mattarnster.co.uk/"
 languageCode = "en-us"
 title = "Matt Arnold"
-theme = "hyde-hyde"
+theme = "anatole"
 googleanalytics = "UA-18228344-1"
 
 [params]
 highlightjs = true
 author = "Matt Arnold"
-authorimage = "/images/matt.jpg"
+profilePicture = "/images/matt.jpg"
+title = "Matt Arnold"
+customCss = ["css/custom.css"]
 
-[params.social]
-github = "mattarnster"
-instagram = "mattarnster"
-twitter = "mattarnster"
-email = "matt@mattarnster.co.uk"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/mattarnster"
+
+[[params.socialIcons]]
+icon = "fa-twitter"
+title = "Twitter"
+url = "https://twitter.com/mattarnster"
+
+[[params.socialIcons]]
+icon = "fa-envelope-o"
+title = "Email"
+url = "mailto:matt@mattarnster.co.uk"
+
+
 
 [[menu.main]]
 name = "Posts"
