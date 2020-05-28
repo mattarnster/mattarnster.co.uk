@@ -11,3 +11,7 @@
 .list-with-title .listing .listing-post a {
     color: white;
 }
+
+.post .post-content a {
+    color: #3F7BBA;
+}
