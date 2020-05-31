@@ -8,9 +8,7 @@ I'm a software developer living in the USA.
 My current skillset includes:
 
 - Go
-- PHP
-- VB.Net
-- JavaScript
-- Python
-- Laravel
-- Flask
+- PHP (Laravel, WordPress, Drupal 7 and 8)
+- .NET (VB and C#)
+- JavaScript (Vue, React and Redux)
+- Python (Django, Flask)

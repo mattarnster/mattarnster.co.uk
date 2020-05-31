@@ -15,7 +15,7 @@ job-tracker is a Laravel application written for a local welding shop to track c
 
 sud is a small application written in golang to download files from remote servers via sftp.
 
-## [SCSS Compiler](https://packagecontrol.io/packages/SCSS%20Compiler)
+## [SCSS Compiler](https://packagecontrol.io/packages/SCSS%20Compiler) - 36k installs as of May 2020
 
 Tiny Sublime Text plugin to compile the selected CSS to SCSS.
 
