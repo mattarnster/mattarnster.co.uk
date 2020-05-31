@@ -13,7 +13,7 @@ job-tracker is a Laravel application written for a local welding shop to track c
 
 ## [sud](https://github.com/mattarnster/sud)
 
-sud is a small application written in golang to download files from remote servers via SCP.
+sud is a small application written in golang to download files from remote servers via sftp.
 
 ## [SCSS Compiler](https://packagecontrol.io/packages/SCSS%20Compiler)
 
