@@ -17,7 +17,7 @@ I wanted a simple application to view my [Radarr](https://radarr.video) library 
 
 Initially, I was planning to write out the API layer by hand, but I found a library that someone else had made: [RadarrSharp by Hertizch](https://github.com/Hertizch/RadarrSharp).
 
-This is one of the first times I had ever used the XAML templating language and there are a few things during develpoment that I thought would be good to talk about.
+This is one of the first times I had ever used the XAML templating language and there are a few things during development that I thought would be good to talk about.
 
 ## Should I use { x:Bind } or { Binding } to display variables in my views?
 

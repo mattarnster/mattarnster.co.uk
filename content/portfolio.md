@@ -3,14 +3,30 @@ title: "Portfolio"
 date: 2019-06-17T22:38:58-04:00
 ---
 
+## [RadarrApp](https://github.com/mattarnster/radarrapp)
+
+RadarrApp is a way to view your Radarr library and queue from your desktop.
+
+## [job-tracker](https://github.com/mattarnster/job-tracker)
+
+job-tracker is a Laravel application written for a local welding shop to track customer projects and provide communication to the customers.
+
+## [sud](https://github.com/mattarnster/sud)
+
+sud is a small application written in golang to download files from remote servers via SCP.
+
+## [SCSS Compiler](https://packagecontrol.io/packages/SCSS%20Compiler)
+
+Tiny Sublime Text plugin to compile the selected CSS to SCSS.
+
 ## [releasetrackr](https://github.com/mattarnster/releasetrackr)
 
 releasetrackr is a way to subscribe to release notifications on GitHub repos. The notifications go directly
 to your email. It's built using Go and MongoDB.
 
-## [reactStartPage3](https://github.com/mattarnster/reactStartPage3)
+## [reactStartPage4](https://github.com/mattarnster/reactStartPage3)
 
-reactStartPage is my own personal start-page and is built using React & Materialize CSS
+reactStartPage is my own personal start-page and is built using React & Materialize CSS.
 
 ## [scsscompiler](https://github.com/mattarnster/scsscompiler)
 
